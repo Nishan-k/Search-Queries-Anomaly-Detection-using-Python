@@ -21,6 +21,17 @@ After the data is read, there seems to be no any NULL or missing values but if w
 ![alt text](image-1.png)
 <br>
 
-# 2. Top 20 words in the query:
+## 2. Top 20 words in the query:
 Below are the top 20 words based on the frequency count that appeared often in the query: <br>
 ![alt text](image-2.png)
+
+<br> A bar chart that represents the most frequent word in the query: <b> <br>
+<br>
+![alt text](image-3.png)
+
+## 3. Top 10 Queries based on the Impressions and on the number of Clicks:
+#### Number of clicks:
+![alt text](image-5.png)
+
+#### Number of Impressions:
+![alt text](image-6.png)
