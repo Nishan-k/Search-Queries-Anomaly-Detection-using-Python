@@ -62,5 +62,3 @@ Below are the top 20 words based on the frequency count that appeared often in t
 6. **CTR and Position (-0.728):** There is a strong negative correlation, and it also makes sense because a better position (lower number where 1 represents the top rank, 2 the second, and so on) will get a higher click-through
 
 
-
-</b>
