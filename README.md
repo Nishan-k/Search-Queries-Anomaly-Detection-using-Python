@@ -29,9 +29,38 @@ Below are the top 20 words based on the frequency count that appeared often in t
 <br>
 ![alt text](image-3.png)
 
-## 3. Top 10 Queries based on the Impressions and on the number of Clicks:
-#### Number of clicks:
-![alt text](image-5.png)
+## 3. 10 Queries based on Clicks, Impressions, and CTR::
+#### Top 10 Queries based on the number of clicks:
+![alt text](image-7.png)
 
-#### Number of Impressions:
-![alt text](image-6.png)
+#### Top 10 Queries based on the number of Impressions:
+![alt text](image-8.png)
+
+#### Top 10 queires with the highest CTR (Click Through Rate):
+![alt text](image-9.png)
+
+
+#### Bottom 10 Queries with the lowest CTR:
+![alt text](image-10.png)
+
+
+## 4. Understanding the correlation between the numerical features:
+![alt text](image-11.png)
+
+</b>
+
+1. **Clicks and Impressions (0.377):** There is a moderate positive correlation between them. This means that as the number of impressions increases, the number of clicks also tends to increase but not that strongly.
+
+2. **Clicks and CTR (0.107):** They have a very weak positive correlation. This means an increase in clicks is slightly associated with the higher click-through rate but the relationship is not so strong.
+
+3. **Clicks and Positions (-0.112):** There is a slight weak correlation between them. This means if the position of the link is at a better position (lower i.e., 1 represents the first, 2 represents the second, and so on), there is a slight chance it might get clicked.
+
+4. **Impressions and CTR (-0.331):** They have a moderate negative correlation. This means that if the link appears too often, maybe due to advertising, the click-through rate tends to decrease. This could be because the sites were more often in the search results but in less prominent positions or when the context of the search query doesn't match with the links that were shown.
+
+5. **Impressions and Position (0.358):** There is a moderate positive correlation between them. This means as the impression of the site increases, it tends to increase their average position (where a lower number = higher ranks) slightly.
+
+6. **CTR and Position (-0.728):** There is a strong negative correlation, and it also makes sense because a better position (lower number where 1 represents the top rank, 2 the second, and so on) will get a higher click-through
+
+
+
+</b>
