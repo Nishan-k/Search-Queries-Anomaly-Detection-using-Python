@@ -68,12 +68,12 @@ Where, **contamination is the expected proportion of outliers.**
 ![alt text](image-12.png)
 
 Below,<br>
- **1:** are the normal queries <br>
-**-1:** are the anomalies <br>
-![alt text](image-13.png)
+ **False:** are the normal queries <br>
+**True:** are the anomalies <br>
+![alt text](image-15.png)
 
 **Queries detected as anomalies:** <br>
-![alt text](image-14.png)
+![alt text](image-16.png)
 
 The anomalies in our search query data are more than just outliers; they highlight potential opportunities for growth, optimization, and strategic attention. These anomalies reveal emerging trends or areas of increasing interest. Being responsive to these trends is crucial for sustaining and enhancing the website's relevance and user engagement.
 
