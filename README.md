@@ -61,4 +61,21 @@ Below are the top 20 words based on the frequency count that appeared often in t
 
 6. **CTR and Position (-0.728):** There is a strong negative correlation, and it also makes sense because a better position (lower number where 1 represents the top rank, 2 the second, and so on) will get a higher click-through
 
+## 5. Detecting the anomalies:
+For this task, we will be using Isolation Forest which is primarily used for anomaly detection.
+Where, **contamination is the expected proportion of outliers.**
+<br>
+![alt text](image-12.png)
 
+Below,<br>
+ **1:** are the normal queries <br>
+**-1:** are the anomalies <br>
+![alt text](image-13.png)
+
+**Queries detected as anomalies:** <br>
+![alt text](image-14.png)
+
+The anomalies in our search query data are more than just outliers; they highlight potential opportunities for growth, optimization, and strategic attention. These anomalies reveal emerging trends or areas of increasing interest. Being responsive to these trends is crucial for sustaining and enhancing the website's relevance and user engagement.
+
+## 6. Summary:
+Search Queries Anomaly Detection involves identifying queries that stand out as outliers based on their performance metrics. This process is valuable for businesses as it helps to uncover potential issues or opportunities, such as unusually high or low CTRs.
